@@ -7,3 +7,6 @@
 [submodule "deps/cziplib"]
 	path = deps/cziplib
 	url = https://github.com/kuba--/zip.git
+[submodule "src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.BoilerplateText"]
+	path = src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.BoilerplateText
+	url = git@github.com:RobertMueller2/PowerToysRunPluginBoilerplate.git
