@@ -10,3 +10,6 @@
 [submodule "src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.BoilerplateText"]
 	path = src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.BoilerplateText
 	url = git@github.com:RobertMueller2/PowerToysRunPluginBoilerplate.git
+[submodule "src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.LocationRunner"]
+	path = src/modules/launcher/Plugins/Community.PowerToys.Run.Plugin.LocationRunner
+	url = git@github.com:RobertMueller2/PowertoysRunLocationRunnerPlugin.git
